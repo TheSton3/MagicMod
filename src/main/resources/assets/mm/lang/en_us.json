@@ -1,0 +1,10 @@
+{
+  "itemGroup.mm": "Example Mod Tab",
+  "block.mm.example_block": "Example Block",
+  "item.mm.example_item": "Example Item",
+  "mm.spells.teleport": "Small Teleport",
+  "mm.spells.fireball_spell": "Small Fireball",
+  "mm.spells.shield": "Small Shield",
+  "item.mm.spell": "Current Spell:",
+  "mm.spells.basic_missile": "Magic Missile"
+}
